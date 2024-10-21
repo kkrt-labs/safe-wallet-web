@@ -40,7 +40,7 @@ export const FallbackHandler = (): ReactElement | null => {
 
   const warning = !hasFallbackHandler ? (
     <>
-      The {'Safe{Wallet}'} may not work correctly as no fallback handler is currently set.
+      The {'Kakarot Safe'} may not work correctly as no fallback handler is currently set.
       {txBuilder && (
         <>
           {' '}
