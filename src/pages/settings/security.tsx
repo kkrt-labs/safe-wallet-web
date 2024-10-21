@@ -8,7 +8,7 @@ const SecurityPage: NextPage = () => {
   return (
     <>
       <Head>
-        <title>{'Kakarot Safe – Settings – Security'}</title>
+        <title>Kakarot Safe – Settings – Security</title>
       </Head>
 
       <SettingsHeader />

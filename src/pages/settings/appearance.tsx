@@ -32,7 +32,7 @@ const Appearance: NextPage = () => {
   return (
     <>
       <Head>
-        <title>{'Kakarot Safe – Settings – Appearance'}</title>
+        <title>Kakarot Safe – Settings – Appearance</title>
       </Head>
 
       <SettingsHeader />

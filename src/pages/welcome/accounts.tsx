@@ -6,7 +6,7 @@ const Accounts: NextPage = () => {
   return (
     <>
       <Head>
-        <title>{'Kakarot Safe – My accounts'}</title>
+        <title>Kakarot Safe – My accounts</title>
       </Head>
 
       <MyAccounts />

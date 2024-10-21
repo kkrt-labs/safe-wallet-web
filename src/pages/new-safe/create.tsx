@@ -7,7 +7,7 @@ const Open: NextPage = () => {
   return (
     <main>
       <Head>
-        <title>{'Kakarot Safe – Create Safe Account'}</title>
+        <title>Kakarot Safe – Create Safe Account</title>
       </Head>
 
       <CreateSafe />

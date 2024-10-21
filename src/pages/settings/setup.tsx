@@ -19,7 +19,7 @@ const Setup: NextPage = () => {
   return (
     <>
       <Head>
-        <title>{'Kakarot Safe – Settings – Setup'}</title>
+        <title>Kakarot Safe – Settings – Setup</title>
       </Head>
 
       <SettingsHeader />

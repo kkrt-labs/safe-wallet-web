@@ -15,7 +15,7 @@ const Queue: NextPage = () => {
   return (
     <>
       <Head>
-        <title>{'Kakarot Safe – Transaction queue'}</title>
+        <title>Kakarot Safe – Transaction queue</title>
       </Head>
 
       <BatchExecuteHoverProvider>

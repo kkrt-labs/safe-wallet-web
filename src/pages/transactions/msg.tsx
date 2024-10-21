@@ -8,7 +8,7 @@ const SingleTransaction: NextPage = () => {
   return (
     <>
       <Head>
-        <title>{'Kakarot Safe – Message details'}</title>
+        <title>Kakarot Safe – Message details</title>
       </Head>
 
       <main>

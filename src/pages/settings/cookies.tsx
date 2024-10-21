@@ -8,7 +8,7 @@ const Cookies: NextPage = () => {
   return (
     <>
       <Head>
-        <title>{'Kakarot Safe – Settings – Cookies'}</title>
+        <title>Kakarot Safe – Settings – Cookies</title>
       </Head>
 
       <SettingsHeader />

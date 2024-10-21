@@ -7,7 +7,7 @@ const EnvironmentVariablesPage: NextPage = () => {
   return (
     <>
       <Head>
-        <title>{'Kakarot Safe – Settings – Environment variables'}</title>
+        <title>Kakarot Safe – Settings – Environment variables</title>
       </Head>
 
       <SettingsHeader />

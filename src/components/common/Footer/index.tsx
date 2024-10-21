@@ -75,7 +75,7 @@ const Footer = (): ReactElement | null => {
             </li>
           </>
         ) : (
-          <li>{'This is an unofficial distribution of Kakarot Safe'}</li>
+          <li>This is an unofficial distribution of Kakarot Safe</li>
         )}
 
         <li>

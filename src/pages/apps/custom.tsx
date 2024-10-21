@@ -29,7 +29,7 @@ const CustomSafeApps: NextPage = () => {
   return (
     <>
       <Head>
-        <title>{'Kakarot Safe – Custom Safe Apps'}</title>
+        <title>Kakarot Safe – Custom Safe Apps</title>
       </Head>
 
       <SafeAppsSDKLink />

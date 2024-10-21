@@ -26,7 +26,7 @@ const Messages: NextPage = () => {
   return (
     <>
       <Head>
-        <title>{'Kakarot Safe – Messages'}</title>
+        <title>Kakarot Safe – Messages</title>
       </Head>
 
       <TxHeader>

@@ -9,7 +9,7 @@ const SafeAppsPermissionsPage: NextPage = () => {
   return (
     <>
       <Head>
-        <title>{'Kakarot Safe – Settings – Safe Apps'}</title>
+        <title>Kakarot Safe – Settings – Safe Apps</title>
       </Head>
 
       <SettingsHeader />
