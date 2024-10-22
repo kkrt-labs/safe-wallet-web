@@ -33,8 +33,8 @@ export const SAFE_COMPATIBLE_EVENTS = ['chainChanged', 'accountsChanged']
 export const SAFE_WALLET_METADATA = {
   name: 'Kakarot Safe',
   url: 'https://app.safe.global',
-  description: 'Smart contract wallet for Ethereum',
-  icons: ['https://app.safe.global/images/logo-round.svg'],
+  description: 'Smart contract wallet for Kakarot',
+  icons: ['https://app.safe.global/images/favicons/favicon.ico'],
 }
 
 export const EIP155 = 'eip155' as const
