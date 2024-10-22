@@ -29,9 +29,9 @@ const Footer = (): ReactElement | null => {
     return null
   }
 
-  const getHref = (path: string): string => {
-    return router.pathname === path ? '' : path
-  }
+  // const getHref = (path: string): string => {
+  //   return router.pathname === path ? '' : path
+  // }
 
   return (
     <footer className={css.container}>
