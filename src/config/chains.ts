@@ -17,7 +17,7 @@ const chains = networks.reduce<Chains>((result, { shortName, chainId }) => {
   return result
 }, {})
 const ChainLogos = {
-  [chains['kakarot']]: '/images/kakarot_logo.svg',
+  [chains['kakarot']]: 'public/images/kakarot_logo.svg',
 }
 
 export const getChainLogo = (chainId: string) => {
