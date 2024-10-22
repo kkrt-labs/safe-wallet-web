@@ -35,6 +35,10 @@ export const OVERVIEW_EVENTS = {
     action: 'Deleted from watchlist',
     category: OVERVIEW_CATEGORY,
   },
+  SUGGESTIONS: {
+    action: 'Suggest any new Feature',
+    category: OVERVIEW_CATEGORY,
+  },
   TOTAL_SAFES_OWNED: {
     action: 'Total Safes owned',
     category: OVERVIEW_CATEGORY,
