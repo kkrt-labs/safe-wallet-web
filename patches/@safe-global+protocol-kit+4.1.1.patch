@@ -1,0 +1,12 @@
+diff --git a/node_modules/@safe-global/protocol-kit/dist/src/utils/eip-3770/config.js b/node_modules/@safe-global/protocol-kit/dist/src/utils/eip-3770/config.js
+index 00ae69d..3e6ddc8 100644
+--- a/node_modules/@safe-global/protocol-kit/dist/src/utils/eip-3770/config.js
++++ b/node_modules/@safe-global/protocol-kit/dist/src/utils/eip-3770/config.js
+@@ -304,6 +304,7 @@ exports.networks = [
+     { chainId: 11297108109n, shortName: 'palm' },
+     { chainId: 37714555429n, shortName: 'xaitestnet' },
+     { chainId: 88153591557n, shortName: 'arb-blueberry' },
++    { chainId: 920637907288165n, shortName: 'kakarot' },
+     { chainId: 123420000220n, shortName: 'fluence-stage' }
+ ];
+ if (process.env.TEST_NETWORK === 'hardhat') {
